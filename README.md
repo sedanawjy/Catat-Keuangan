@@ -1,4 +1,5 @@
 # Catat-Keuangan
+# Created By : I Putu Sedana Wijaya
 Program menggunakan konsep Double Linked List
 Menu program:
 1. List Akun Pengeluaran dan Pemasukan
